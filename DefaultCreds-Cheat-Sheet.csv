@@ -193,6 +193,8 @@ Anevia,admin,paris
 Anevia,monitor,anevia
 antsle (ssh),root,antsle
 AOC,<blank>,admin
+Apollo,apollo,admin
+Apollo,admin,apollo123
 Apache,admin,admin
 Apache,admin,<blank>
 Apache,admin,j5Brn9
@@ -2040,6 +2042,7 @@ Oracle,ADAMS,WOOD
 Oracle,ADLDEMO,ADLDEMO
 Oracle,admin,admin
 Oracle,admin,adminadmin
+Oracle,Welcome1,Welcome1
 Oracle,ADMINISTRATOR,admin
 Oracle,ADMINISTRATOR,ADMINISTRATOR
 Oracle,ADMIN,JETSPEED
@@ -2943,6 +2946,7 @@ technology,root,<blank>
 Tegile,admin,tegile
 Teklogix,Administrator,<blank>
 Telappliant,admin,1234
+Telkom,admin,admin
 Telco Systems,telco,telco
 Telebit,setup,setup
 Telebit,snmp,nopasswd
